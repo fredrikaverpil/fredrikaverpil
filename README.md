@@ -1,10 +1,15 @@
 ### Hi there 👋
 
+I am a passionate, enthusiastic and professional Python developer (since 2012), continuously striving to evolve with Python as the primary language of choice. 
+
+Preferably, building scalable and reliable solutions in public clouds such as AWS, GCP and Azure. I advocate continuous development, automated testing, clean code and I apply common design patterns so as to maintain as high code quality as possible. I am deeply invested in the open source community and love collaborating and contributing.
+
+- 🔭 I’m currently working with 5G Core software installation automation at [Ericsson](https://ericsson.se)
+- 🌱 I’m currently learning more on websockets, task queues, gRPC
+- 📫 How to reach me: [Twitter](https://twitter.com/fredrikaverpil), [LinkedIn](https://www.linkedin.com/in/fredrik/)
+- 🔖 I keep a public notebook at: [fredrikaverpil.github.io](https://fredrikaverpil.github.io)
+
 <!--
-**fredrikaverpil/fredrikaverpil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
