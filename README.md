@@ -19,3 +19,8 @@ Preferably, building scalable and reliable solutions in public clouds such as AW
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
