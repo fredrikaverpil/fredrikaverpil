@@ -25,7 +25,7 @@ Preferably, building scalable and reliable solutions in public clouds such as AW
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-## Latest Blog Posts
+### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
