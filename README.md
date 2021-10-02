@@ -28,4 +28,9 @@ Preferably, building scalable and reliable solutions in public clouds such as AW
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Send HEY mail with forwarding address using Office365 SMTP](https://fredrikaverpil.github.io/2021/04/24/send-hey-mail-from-forwarding-address/)
+- [Debugging Poetry with Visual Studio Code](https://fredrikaverpil.github.io/2021/04/17/debugging-poetry/)
+- [Git gotchas](https://fredrikaverpil.github.io/2021/01/08/git-gotchas/)
+- [Encoding UUIDs with base62](https://fredrikaverpil.github.io/2021/01/08/encoding-uuids-with-base62/)
+- [Visual Studio Code remote development with Windows 10](https://fredrikaverpil.github.io/2019/05/27/vscode-remote-dev-with-windows10/)
 <!-- BLOG-POST-LIST:END -->
