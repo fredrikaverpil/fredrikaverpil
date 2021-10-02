@@ -7,7 +7,7 @@ Preferably, building scalable and reliable solutions in public clouds such as AW
 - 🔭 I’m preparing to start a new position as backend developer at [doktor.se](https://doktor.se)
 - 🌱 I’m currently learning more on websockets, Redis, k8s, AWS, PostgreSQL, task queues, gRPC
 - 📫 How to reach me: [Twitter](https://twitter.com/fredrikaverpil), [LinkedIn](https://www.linkedin.com/in/fredrik/)
-- 🔖 I keep a public notebook at: [fredrikaverpil.github.io](https://fredrikaverpil.github.io)
+- 📝 I keep a public notebook at: [fredrikaverpil.github.io](https://fredrikaverpil.github.io)
 
 <!--
 - 🔭 I’m currently working on ...
