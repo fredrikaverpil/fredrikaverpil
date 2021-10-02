@@ -20,12 +20,12 @@ Preferably, building scalable and reliable solutions in public clouds such as AW
 - ⚡ Fun fact: ...
 -->
 
-### Recent Activity
+### Recent activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-### Latest Blog Posts
+### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
