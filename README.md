@@ -23,6 +23,11 @@ Preferably, building scalable and reliable solutions in public clouds such as AW
 ### Recent activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#52](https://github.com/fredrikaverpil/dotfiles/pull/52) in [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles)
+2. 💪 Opened PR [#52](https://github.com/fredrikaverpil/dotfiles/pull/52) in [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles)
+3. 🎉 Merged PR [#51](https://github.com/fredrikaverpil/dotfiles/pull/51) in [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles)
+4. 💪 Opened PR [#51](https://github.com/fredrikaverpil/dotfiles/pull/51) in [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles)
+5. 🎉 Merged PR [#50](https://github.com/fredrikaverpil/dotfiles/pull/50) in [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles)
 <!--END_SECTION:activity-->
 
 ### Latest blog posts
