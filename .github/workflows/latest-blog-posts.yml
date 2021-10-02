@@ -1,4 +1,4 @@
-name: Blog Posts
+name: Latest blog posts
 
 on:
   # Run workflow automatically
