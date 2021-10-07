@@ -23,11 +23,11 @@ Preferably, building scalable and reliable solutions in public clouds such as AW
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#316](https://github.com/pyenv-win/pyenv-win/pull/316) in [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win)
-2. 🎉 Merged PR [#52](https://github.com/fredrikaverpil/dotfiles/pull/52) in [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles)
-3. 💪 Opened PR [#52](https://github.com/fredrikaverpil/dotfiles/pull/52) in [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles)
-4. 🎉 Merged PR [#51](https://github.com/fredrikaverpil/dotfiles/pull/51) in [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles)
-5. 💪 Opened PR [#51](https://github.com/fredrikaverpil/dotfiles/pull/51) in [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles)
+1. 💪 Opened PR [#53](https://github.com/fredrikaverpil/dotfiles/pull/53) in [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles)
+2. 💪 Opened PR [#316](https://github.com/pyenv-win/pyenv-win/pull/316) in [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win)
+3. 🎉 Merged PR [#52](https://github.com/fredrikaverpil/dotfiles/pull/52) in [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles)
+4. 💪 Opened PR [#52](https://github.com/fredrikaverpil/dotfiles/pull/52) in [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles)
+5. 🎉 Merged PR [#51](https://github.com/fredrikaverpil/dotfiles/pull/51) in [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles)
 <!--END_SECTION:activity-->
 
 ### Latest blog posts
