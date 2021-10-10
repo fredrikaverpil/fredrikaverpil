@@ -22,11 +22,11 @@ Preferably, building scalable and reliable solutions in public clouds such as AW
 
 ### GitHub stats
 
-[![Fredrik's GitHub stats](https://github-readme-stats.vercel.app/api?username=fredrikaverpil&theme=cobalt&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Fredrik's GitHub stats](https://github-readme-stats.vercel.app/api?username=fredrikaverpil&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredrikaverpil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fredrikaverpil&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Recent activity
