@@ -20,6 +20,9 @@ Preferably, building scalable and reliable solutions in public clouds such as AW
 - ⚡ Fun fact: ...
 -->
 
+[![Fredrik's GitHub stats](https://github-readme-stats.vercel.app/api?username=fredrikaverpil)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Recent activity
 
 <!--START_SECTION:activity-->
