@@ -12,9 +12,13 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # # Recent activity
+      # - uses: jamesgeorge007/github-activity-readme@master
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Recent blog posts 
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # comma-separated list of RSS feed urls
