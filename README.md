@@ -24,20 +24,7 @@ Preferably, building scalable and reliable solutions in public clouds such as AW
 
 [![Fredrik's GitHub stats](https://github-readme-stats.vercel.app/api?username=fredrikaverpil&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Top languages
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fredrikaverpil&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### Recent activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/fredrikaverpil/dotfiles/pull/53) in [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles)
-2. 💪 Opened PR [#53](https://github.com/fredrikaverpil/dotfiles/pull/53) in [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles)
-3. 💪 Opened PR [#316](https://github.com/pyenv-win/pyenv-win/pull/316) in [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win)
-4. 🎉 Merged PR [#52](https://github.com/fredrikaverpil/dotfiles/pull/52) in [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles)
-5. 💪 Opened PR [#52](https://github.com/fredrikaverpil/dotfiles/pull/52) in [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles)
-<!--END_SECTION:activity-->
 
 ### Latest blog posts
 
