@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a passionate, enthusiastic and professional Python developer (since 2012), continuously striving to evolve with Python as the primary language of choice. 
+I am a passionate, enthusiastic and professional software developer (since 2012), continuously striving to evolve with Python as the primary language of choice — and preferably building scalable and reliable solutions in public cloud environments such as GCP, AWS or Azure. 
 
-Preferably, building scalable and reliable solutions in public clouds such as AWS, GCP and Azure. I advocate continuous development, automated testing, clean code and I apply common design patterns so as to maintain as high code quality as possible. I am deeply invested in the open source community and love collaborating and contributing.
+I advocate continuous development, automated testing, clean code and the use of common design patterns so as to maintain as high code quality as possible. I am deeply invested in the open source community and love collaborating and contributing.
 
 - 🔭 I’m preparing to start a new position as backend developer at [Doktor](https://en.doktor.se/)
 - 🌱 I’m currently learning more on websockets, Redis, k8s, AWS, PostgreSQL, task queues, gRPC
