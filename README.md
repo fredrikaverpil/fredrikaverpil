@@ -4,8 +4,7 @@ I am a passionate, enthusiastic and professional software developer (since 2012)
 
 I advocate continuous development, automated testing, clean code and the use of common design patterns so as to maintain as high code quality as possible. I am deeply invested in the open source community and love collaborating and contributing.
 
-- 🔭 I’m preparing to start a new position as backend developer at [Doktor](https://en.doktor.se/)
-- 🌱 I’m currently learning more on websockets, Redis, k8s, AWS, PostgreSQL, task queues, gRPC
+- 🌱 I’m currently learning more on websockets, Redis, gRPC, PostgreSQL...
 - 📫 How to reach me: [Twitter](https://twitter.com/fredrikaverpil), [LinkedIn](https://www.linkedin.com/in/fredrik/)
 - 📝 I keep a public notebook at: [fredrikaverpil.github.io](https://fredrikaverpil.github.io)
 
