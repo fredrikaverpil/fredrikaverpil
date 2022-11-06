@@ -4,7 +4,7 @@ I am a passionate, enthusiastic and professional software developer (since 2012)
 
 I advocate continuous development, automated testing, clean code and the use of common design patterns so as to maintain as high code quality as possible. I am deeply invested in the open source community and love collaborating and contributing.
 
-📫 How to reach me: [Twitter](https://twitter.com/fredrikaverpil), [https://fosstodon.org/@fredrikaverpil](Mastodon), [LinkedIn](https://www.linkedin.com/in/fredrik/)
+📫 How to reach me: [Twitter](https://twitter.com/fredrikaverpil), [Mastodon](https://fosstodon.org/@fredrikaverpil), [LinkedIn](https://www.linkedin.com/in/fredrik/)
 
 
 <!--
