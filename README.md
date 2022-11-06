@@ -27,7 +27,3 @@ I advocate continuous development, automated testing, clean code and the use of 
 - [Debugging Poetry with Visual Studio Code](https://fredrikaverpil.github.io/2021/04/17/debugging-poetry/)
 - [Git gotchas](https://fredrikaverpil.github.io/2021/01/08/git-gotchas/)
 <!-- BLOG-POST-LIST:END -->
-
-### Mastodon rel=me test
-
-<a rel="me" href="https://fosstodon.org/@fredrikaverpil">Mastodon</a>
