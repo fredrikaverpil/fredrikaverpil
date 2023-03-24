@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a passionate, enthusiastic and professional software developer (since 2012), continuously striving to evolve with Python as the primary language of choice — and preferably building scalable and reliable solutions in public cloud environments such as GCP, AWS or Azure. 
+I am a passionate, enthusiastic and professional software developer (since 2012), continuously striving to evolve with Python as the primary language of choice — and preferably building scalable and reliable solutions in public cloud environments. 
 
 I advocate continuous development, automated testing, clean code and the use of common design patterns so as to maintain as high code quality as possible. I am deeply invested in the open source community and love collaborating and contributing.
 
