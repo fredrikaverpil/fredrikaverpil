@@ -21,9 +21,9 @@ I advocate continuous development, automated testing, clean code and the use of 
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Developing with Apple Silicon](https://fredrikaverpil.github.io/posts/2021-12-17-developing-with-apple-silicon-page/)
-- [Installing Poetry system-wide](https://fredrikaverpil.github.io/posts/2021-11-13-installing-poetry-globally/)
-- [Debugging Poetry with Visual Studio Code](https://fredrikaverpil.github.io/posts/2021-04-17-debugging-poetry/)
-- [Encoding UUIDs with base62](https://fredrikaverpil.github.io/posts/2021-01-08-encoding-uuids-with-base62/)
-- [Visual Studio Code remote development with Windows 10](https://fredrikaverpil.github.io/posts/2019-05-27-vscode-remote-dev-with-windows10/)
+- [Using GitHub merge queue to ease the Dependabot churn](https://fredrikaverpil.github.io/blog/2023/03/29/using-github-merge-queue-to-ease-the-dependabot-churn/)
+- [Load variables from .env file into current environment](https://fredrikaverpil.github.io/blog/2022/12/18/load-variables-from-env-file-into-current-environment/)
+- [Datadog and custom tracing](https://fredrikaverpil.github.io/blog/2022/12/17/datadog-and-custom-tracing/)
+- [Developing with Apple Silicon](https://fredrikaverpil.github.io/blog/2021/12/17/developing-with-apple-silicon/)
+- [Installing Poetry system-wide](https://fredrikaverpil.github.io/blog/2021/11/13/installing-poetry-system-wide/)
 <!-- BLOG-POST-LIST:END -->
