@@ -2,7 +2,7 @@
 
 I am a passionate, enthusiastic and professional software developer, continuously striving to evolve with Python as the primary language of choice — and preferably building scalable and reliable solutions in public cloud environments. 
 
-I advocate continuous development, automated testing, "clean code" vs simplicity/perf so to maintain as high code quality as possible. I am deeply invested in the open source community and love collaborating and contributing.
+I advocate continuous development, automated testing and to maintain as high code quality as possible. I am deeply invested in the open source community and love collaborating and contributing.
 
 📫 How to reach me: [Twitter](https://twitter.com/fredrikaverpil), [Mastodon](https://fosstodon.org/@fredrikaverpil), [LinkedIn](https://www.linkedin.com/in/fredrik/)
 
