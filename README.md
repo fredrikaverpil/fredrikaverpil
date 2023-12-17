@@ -2,7 +2,7 @@
 
 I am a passionate, enthusiastic and professional software developer, continuously striving to evolve. I prefer to build scalable and reliable backend microservice systems in public cloud environments. I've got a more verbose profile [over at LinkedIn](https://www.linkedin.com/in/fredrik/).
 
-📫 How to reach me: [Twitter](https://twitter.com/fredrikaverpil), [Mastodon](https://fosstodon.org/@fredrikaverpil), [LinkedIn](https://www.linkedin.com/in/fredrik/)
+📫 How to reach me: [Mastodon](https://fosstodon.org/@fredrikaverpil), [LinkedIn](https://www.linkedin.com/in/fredrik/)
 
 
 <!--
