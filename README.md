@@ -21,9 +21,9 @@ I am a passionate, enthusiastic and professional software developer, continuousl
 <a href='https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ffredrikaverpil.github.io%2Ffeed_rss_created.xml'  target='blank'><img id='feedlyFollow' src='https://s1.feedly.com/legacy/feedly-follow-rectangle-volume-small_2x.png' alt='follow us in feedly' width='66' height='20'></a>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ghostty on macOS](https://fredrikaverpil.github.io/blog/2024/12/04/ghostty-on-macos/)
 - [Native per-project tools in Go 1.24](https://fredrikaverpil.github.io/blog/2024/12/02/native-per-project-tools-in-go-124/)
 - [Session management in Wezterm &lpar;without tmux&rpar;](https://fredrikaverpil.github.io/blog/2024/10/20/session-management-in-wezterm-without-tmux/)
 - [GitHub Pages and Google](https://fredrikaverpil.github.io/blog/2024/08/24/github-pages-and-google/)
 - [Export repo data from GitHub organization](https://fredrikaverpil.github.io/blog/2023/09/01/export-repo-data-from-github-organization/)
-- [Decoupling the ORM class from the data model class](https://fredrikaverpil.github.io/blog/2023/07/02/decoupling-the-orm-class-from-the-data-model-class/)
 <!-- BLOG-POST-LIST:END -->
