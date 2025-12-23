@@ -21,9 +21,9 @@ I am a passionate, enthusiastic and professional software developer, continuousl
 <a href='https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ffredrikaverpil.github.io%2Ffeed_rss_created.xml'  target='blank'><img id='feedlyFollow' src='https://s1.feedly.com/legacy/feedly-follow-rectangle-volume-small_2x.png' alt='follow us in feedly' width='66' height='20'></a>
 
 <!-- BLOG-POST-LIST:START -->
+- [Holiday update](https://fredrikaverpil.github.io/blog/2025/12/23/holiday-update/)
 - [About me](https://fredrikaverpil.github.io/about/)
 - [Gemini 2.5, MCP servers and Neovim v0.11.0](https://fredrikaverpil.github.io/blog/2025/03/29/gemini-2.5-mcp-servers-and-neovim-v0.11.0/)
 - [Claude Code, Go tool and Dependabot updates](https://fredrikaverpil.github.io/blog/2025/03/01/claude-code-go-tool-and-dependabot-updates/)
 - [Gemini, Go Meetup and new Neovim tools dropped](https://fredrikaverpil.github.io/blog/2025/02/22/gemini-go-meetup-and-new-neovim-tools-dropped/)
-- [Starting a blog series](https://fredrikaverpil.github.io/blog/2025/02/21/starting-a-blog-series/)
 <!-- BLOG-POST-LIST:END -->
