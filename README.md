@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a passionate, enthusiastic and professional software developer, continuously striving to evolve. I prefer to build scalable and reliable backend microservice systems in public cloud environments.
+I’m a passionate and enthusiastic software developer with 15+ years of professional software engineering experience.
 
 📫 How to reach me: [Mastodon](https://fosstodon.org/@fredrikaverpil), [LinkedIn](https://www.linkedin.com/in/fredrik/)
 
