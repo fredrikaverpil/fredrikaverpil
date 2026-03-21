@@ -19,9 +19,9 @@ I’m a passionate and enthusiastic software developer with 15+ years of profess
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Profiling Neovim performance](https://fredrikaverpil.github.io/blog/2026/03/21/profiling-neovim-performance/)
 - [Teaching Claude Code to run commands in Neovim](https://fredrikaverpil.github.io/blog/2026/03/07/teaching-claude-code-to-run-commands-in-neovim/)
 - [Quick testing with Terraform without a backend](https://fredrikaverpil.github.io/blog/2026/01/20/quick-testing-with-terraform-without-a-backend/)
 - [Deploying hidden dotfiles to GitHub Pages](https://fredrikaverpil.github.io/blog/2025/12/30/deploying-hidden-dotfiles-to-github-pages/)
 - [Go&#39;s secret weapon: the standard library interfaces](https://fredrikaverpil.github.io/blog/2025/12/28/gos-secret-weapon-the-standard-library-interfaces/)
-- [The &quot;new&quot; function changes in Go 1.26](https://fredrikaverpil.github.io/blog/2025/12/26/the-new-function-changes-in-go-1.26/)
 <!-- BLOG-POST-LIST:END -->
